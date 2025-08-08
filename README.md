@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rakshithadasari
-- 👀 I’m interested in web designing
-- 🌱 I’m currently learning html css java script
-- 📫 How to reach me  through email 
+- 👀 I’m embracing my skills in java and python
+- 🌱 I’m currently learning AI tools
+- 📫 reach me  through rakshithadasari07@gmail.com
 
 <!---
 rakshithadasari/rakshithadasari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
